@@ -1,6 +1,6 @@
 {
   "name": "object-policy",
-  "description": "object-policy",
+  "description": "Convert an object to a policy-type header, for use in Content-Security-Policy or Feature-Policy.",
   "version": "0.0.1",
   "author": {
     "name": "Zac Anger",
@@ -20,8 +20,10 @@
   },
   "bugs": "https://github.com/zacanger/object-policy/issues",
   "keywords": [
-    "",
-    "object-policy"
+    "header",
+    "headers",
+    "policy",
+    "object"
   ],
   "dependencies": {},
   "devDependencies": {},
