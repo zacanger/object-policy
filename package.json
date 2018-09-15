@@ -1,0 +1,31 @@
+{
+  "name": "object-policy",
+  "description": "object-policy",
+  "version": "0.0.1",
+  "author": {
+    "name": "Zac Anger",
+    "email": "zac@zacanger.com",
+    "url": "http://zacanger.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": ""
+  },
+  "homepage": "https://github.com/zacanger/object-policy#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zacanger/object-policy.git"
+  },
+  "bugs": "https://github.com/zacanger/object-policy/issues",
+  "keywords": [
+    "",
+    "object-policy"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
