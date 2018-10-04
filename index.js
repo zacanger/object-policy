@@ -10,7 +10,7 @@ module.exports = (opts = {}) => {
 
   return Object.keys(directives)
     .reduce((p, c) => {
-      p += `${c}: ${directives[c]}; `
+      p += `${c} ${directives[c]}; `
       return p
     }, '').trim()
 }

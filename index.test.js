@@ -7,7 +7,7 @@ tape.test('objectPolicy', (t) => {
       fooBar: [ 'a', 'b' ],
       'baz-quux': [ 'one', 'two' ]
     }),
-    'foo-bar: a b; baz-quux: one two;'
+    'foo-bar a b; baz-quux one two;'
   )
   t.end()
 })
