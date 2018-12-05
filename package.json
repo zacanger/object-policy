@@ -1,7 +1,7 @@
 {
   "name": "object-policy",
   "description": "Convert an object to a policy-type header, for use in Content-Security-Policy or Feature-Policy.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
