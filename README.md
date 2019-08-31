@@ -20,6 +20,4 @@ objectPolicy({
 // => `foo-bar: a b; baz-quux: one two;`
 ```
 
-## License
-
-[MIT](./LICENSE.md)
+[LICENSE](./LICENSE.md)
