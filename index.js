@@ -1,4 +1,6 @@
-const fixCase = require('zeelib/lib/camel-case-to-lisp-case')
+const fixCase = (str) =>
+  str.replace(/[A-Z]/g, (match) =>
+    '-' + match.toLowerCase()).toLowerCase()
 
 module.exports = (opts = {}) => {
   const directives = Object.keys(opts)
